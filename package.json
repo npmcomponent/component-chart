@@ -1,0 +1,12 @@
+{
+  "name": "component-chart",
+  "description": "Simple HTML5 Charts using the canvas element",
+  "version": "0.1.0",
+  "keywords": [
+    "charts",
+    "chart",
+    "charting"
+  ],
+  "main": "Chart.js",
+  "dependencies": {}
+}
